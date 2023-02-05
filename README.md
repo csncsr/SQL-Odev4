@@ -1,0 +1,2 @@
+# SQL-Odev4
+DISTINCT-COUNT Yapısı
